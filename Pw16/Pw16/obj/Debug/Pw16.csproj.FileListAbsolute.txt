@@ -1,0 +1,30 @@
+X:\Раз.Прог.Мод\Pw16\Pw16\bin\Debug\Pw16.exe.config
+X:\Раз.Прог.Мод\Pw16\Pw16\bin\Debug\Pw16.exe
+X:\Раз.Прог.Мод\Pw16\Pw16\bin\Debug\Pw16.pdb
+X:\Раз.Прог.Мод\Pw16\Pw16\obj\Debug\Pw16.csproj.AssemblyReference.cache
+X:\Раз.Прог.Мод\Pw16\Pw16\obj\Debug\Pw16.Form1.resources
+X:\Раз.Прог.Мод\Pw16\Pw16\obj\Debug\Pw16.Form2.resources
+X:\Раз.Прог.Мод\Pw16\Pw16\obj\Debug\Pw16.Properties.Resources.resources
+X:\Раз.Прог.Мод\Pw16\Pw16\obj\Debug\Pw16.csproj.GenerateResource.cache
+X:\Раз.Прог.Мод\Pw16\Pw16\obj\Debug\Pw16.csproj.CoreCompileInputs.cache
+X:\Раз.Прог.Мод\Pw16\Pw16\obj\Debug\Pw16.exe
+X:\Раз.Прог.Мод\Pw16\Pw16\obj\Debug\Pw16.pdb
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\bin\Debug\Pw16.exe.config
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\bin\Debug\Pw16.exe
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\bin\Debug\Pw16.pdb
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\obj\Debug\Pw16.csproj.AssemblyReference.cache
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\obj\Debug\Pw16.Form1.resources
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\obj\Debug\Pw16.Form2.resources
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\obj\Debug\Pw16.Properties.Resources.resources
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\obj\Debug\Pw16.csproj.GenerateResource.cache
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\obj\Debug\Pw16.csproj.CoreCompileInputs.cache
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\obj\Debug\Pw16.exe
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\obj\Debug\Pw16.pdb
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\bin\Debug\PdfSharp.Charting.dll
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\bin\Debug\PdfSharp.dll
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\bin\Debug\PdfSharp.xml
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\bin\Debug\PdfSharp.Charting.xml
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\bin\Debug\de\PdfSharp.resources.dll
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\bin\Debug\de\PdfSharp.Charting.resources.dll
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\obj\Debug\Pw16.Form3.resources
+X:\МДК.01.01 Разр. прог. мод\Pw16\Pw16\obj\Debug\Pw16.csproj.CopyComplete
